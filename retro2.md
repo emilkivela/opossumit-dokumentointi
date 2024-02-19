@@ -26,7 +26,7 @@
 - Oppii jatkuvasti jotakin
 
 ## Sad
-- Nominal traits exporttiin on käytettä ehkä turhan paljon aikaa
+- Nominal traits exporttiin on käytetty ehkä turhan paljon aikaa
 - Suurin osa työajasta menee ihme säätöön ja koodin ymmärtämiseen
 - Koodi sekavaa ja vaikeasti ymmärrettävää
 - Oma ajankäyttö
