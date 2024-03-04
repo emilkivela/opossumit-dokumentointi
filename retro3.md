@@ -1,9 +1,9 @@
-## VIHAA
+## HULLUUTTA
 - taskit ja vaatimukset epäselviä
 - epäselvät tavoitteet
 - nominal export ja mihin ORM taipuu
 - projektin kunto ja rakenne josta aiheutuu jatkuvasti päänvaivaa
-- projektille jää liian vähän aikaa
+- projektille jää liian vähän aikaa muulta
 - kehitysympäristön päivittäminen iso projekti
   
 ## SURUA
@@ -12,7 +12,7 @@
 - ylimääräistä säätöä
 - vertaisarviointi
 - epätietoisuus ja epäselvät liian isot taskit
-- demo jäi liikaan yhden henkilön harteille ("työtuntien puolesta ok" -Viljami)
+- demo jäi liikaan yhden henkilön harteille
 - demo kaikkineen vei paljon aikaa
 - projekti etenee hitaasti
 - liian vähän tehdään yhdessä
