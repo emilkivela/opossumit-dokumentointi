@@ -1,9 +1,9 @@
 # Sprint 6 retro
 
 **Glad:**
-- Viimeinen sprintti, loppu häämöttää
+- Viimeinen alkaa sprintti, loppu häämöttää, jee!
 - Trait match saatu valmiiksi ja toimii hyvin
-- On saatu myös jotain tehtyä, esim. refaktorointia, johon on saanut myös kulutettua hyvin työtunteja
+- On saatu myös tehtyä esim. refaktorointia, johon on saanut kulutettua hyvin työtunteja
 - Front/UI-juttuja on ollut kivaa koodata
 
 **Mad:**
